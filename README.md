@@ -49,7 +49,7 @@ I enjoy building full-stack applications, solving real-world problems, and conti
 ## 📘 Featured Projects
 
 ### 🔹 *Reading Eye For Blind Using Raspberry Pi* (KSCST Funded - Final Year Project)
-[span_4](start_span)A portable assistive device developed to help visually impaired individuals read printed text[span_4](end_span).
+ A portable assistive device developed to help visually impaired individuals read printed text[span_4](end_span).
 - *[span_5](start_span)Core Technology:* Engineered on a *Raspberry Pi* using *Python*[span_5](end_span).
 - *[span_6](start_span)Text Extraction:* Utilized *OpenCV* for image processing and *Tesseract-OCR* for accurate character recognition[span_6](end_span).
 - *[span_7](start_span)User Interface:* Integrated a *Text-to-Speech (TTS) engine* to convert extracted text into clear, audible speech[span_7](end_span).
