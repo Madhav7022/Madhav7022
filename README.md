@@ -6,7 +6,7 @@
 ## 🚀 About Me
  I am a passionate *Full Stack Developer* with a strong foundation in *Java (Core + Advanced)* and modern web technologies.I am proficient in backend development using frameworks like *Spring Boot* and *Hibernate, and frontend technologies like **React.js, **HTML, and **CSS* 
 
-I enjoy building full-stack applications, solving real-world problems, and continuously learning new technologies. [span_2](start_span)My final year project was selected and *funded by KSCST*[span_2](end_span).
+I enjoy building full-stack applications, solving real-world problems, and continuously learning new technologies.My final year project was selected and *funded by KSCST .
 
  Currently based in *Bangalore, India*  and open to exciting opportunities!
 
