@@ -1,75 +1,97 @@
-# Madhav Jadhav | Full Stack Developer (Java/Spring Boot & MERN)
+# Hi, I'm Madhav Jadhav 👋
 
-## 📌 Quick Overview
-
-Highly motivated recent Computer Science Engineering graduate specializing in building robust, data-driven applications. Proven ability to implement full-stack solutions, from high-performance backend APIs using **Spring Boot** and **Node.js/Express.js** to dynamic frontend interfaces with **React.js** and **Thymeleaf**.
+Aspiring Full Stack Web Developer specializing in Java, Spring Boot, and modern JavaScript frameworks. Passionate about building scalable web applications and solving real-world problems through clean, efficient code.[file:1]
 
 ---
 
-## 🛠️ Core Technical Skills
+## 🔧 Tech Stack
 
-This section must show *mastery*, not just familiarity. The logos visually reinforce your capabilities.
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)[file:1][web:11]
 
-| Category | Skills & Tools | Visuals |
-| :--- | :--- | :--- |
-| **Backend & Frameworks** | **Java (Core + Advanced)**, **Spring Boot**, Hibernate, Node.js, Express.js, Servlets, JSP, JDBC | [Java Logo] [Spring Boot Logo] [Node.js Logo] |
-| **Frontend** | **React.js**, HTML5, CSS3, JavaScript, Bootstrap, Thymeleaf | [React Logo] [HTML5 Logo] [CSS3 Logo] [JavaScript Logo] |
-| **Databases** | **SQL**, **PLSQL**, MySQL, MongoDB | [MySQL Logo] [MongoDB Logo] |
-| **Development Tools** | Git, GitHub, Maven, VS Code, Eclipse/IntelliJ | [Git Logo] [GitHub Logo] [Maven Logo] |
-| **Other** | Python, Raspberry Pi, OpenCV, Tesseract-OCR, Data Analytics, DevOps (Foundation) | [Python Logo] [Raspberry Pi Logo] |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)[file:1][web:11]
 
----
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)[file:1][web:11]
 
-## 🚀 Featured Projects
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)[file:1][web:11]
 
-Present your projects with a focus on complexity, technical decisions, and outcomes. *Do not just list the technologies; explain the 'why' and the 'how'.*
-
-### [cite_start]1. Book Management System (Full-Stack CRUD Application) [cite: 26, 27]
-
-[cite_start]**Status:** Completed (2024) [cite: 28]
-
-* [cite_start]**Objective:** To design and implement a complete, end-to-end CRUD web application for managing book inventory, focusing on best practices in the Spring ecosystem[cite: 30].
-* **Key Technical Implementation:**
-    * [cite_start]Implemented the persistence layer using **Spring Data JPA** to abstract SQL operations and manage the `Book` Entity mapping to a **MySQL** database[cite: 31].
-    * [cite_start]Strict adherence to the **MVC architectural pattern**, utilizing a dedicated Spring Controller for business logic and **Thymeleaf** for dynamic frontend rendering[cite: 32].
-    * [cite_start]Demonstrated core Spring mastery, including **Dependency Injection** (`@Autowired`) and implementing robust **RESTful-style endpoints** (`@GetMapping`, `@PostMapping`)[cite: 33].
-* [cite_start]**Technologies:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok[cite: 27].
-* **[Link to GitHub Repo]** | **[Link to Live Demo (If available)]**
-
-### [cite_start]2. Reading Eye For Blind Using Raspberry Pi (Final Year Project) [cite: 34]
-
-[cite_start]**Status:** Completed (2024), Selected and funded by KSCST [cite: 15]
-
-* [cite_start]**Objective:** Developed a portable, real-time assistive device to enable visually impaired users to read printed text from documents and labels[cite: 35]. This project is a strong differentiator.
-* **Key Technical Implementation:**
-    * [cite_start]Engineered the core system on a **Raspberry Pi**, integrating a camera module for real-time image capture and processing[cite: 36].
-    * [cite_start]Implemented a computer vision pipeline using **OpenCV** for image preprocessing (e.g., noise reduction, thresholding) and **Tesseract-OCR** for accurate character recognition[cite: 37].
-    * [cite_start]Integrated a **Text-to-Speech (TTS)** engine to convert the extracted digital text into clear, audible speech for immediate user feedback[cite: 38].
-* [cite_start]**Technologies:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech (TTS)[cite: 34].
-* **[Link to GitHub Repo]**
-
-### [cite_start]3. Food Ordering Web App (Internship Project) [cite: 39]
-
-* [cite_start]**Objective:** Developed a full-stack e-commerce platform for food ordering, featuring user authentication, an admin dashboard, and secure payment processing[cite: 41].
-* **Key Technical Implementation:**
-    * [cite_start]Built the backend using the **MERN stack components (Node.js/Express.js)**, managing product, order, and user data with **MySQL**[cite: 40, 42].
-    * [cite_start]Implemented secure online payment functionality by integrating the **PayPal API**[cite: 43].
-    * [cite_start]Ensured a high-quality, responsive user interface across all devices using **Bootstrap**[cite: 42, 43].
-* [cite_start]**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API[cite: 40].
-* **[Link to GitHub Repo]**
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)[file:1][web:11]
 
 ---
 
-## 🎓 Education & Certifications
+## 🧪 Projects
 
-* [cite_start]**B.Tech in Computer Science Engineering:** Dayananda Sagar University, Bangalore (2020-2024).
-* [cite_start]**Full Stack Web Development:** JSpiders Certification[cite: 16, 17].
-* [cite_start]**Certifications:** Fundamentals of Data Analytics (Nasscom Foundation), DevOps Foundation Program (iNeuron)[cite: 23, 24].
+### 📚 Book Management System (CRUD Web App)
+**Tech:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok[file:1]  
+
+- Full-stack CRUD application to manage book inventory with end-to-end data flow from UI to database.[file:1]  
+- Implemented Spring Data JPA for persistence, mapping entities to MySQL and simplifying database operations.[file:1]  
+- Followed MVC architecture with dedicated controllers and Thymeleaf-based dynamic pages, using core Spring concepts like Dependency Injection and REST-style endpoints.[file:1]  
+
+> 🔗 **Repo:** _Add your GitHub repo link here_  
+> 🔗 **Live Demo (if any):** _Add deployment link here_
 
 ---
 
-## 🤝 Connect
+### 👁️ Reading Eye for Blind (Final Year Project)
+**Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech (TTS)[file:1]  
 
-* [cite_start]**Email:** madhav7022@gmail.com [cite: 3]
-* [cite_start]**Phone:** 7022778185 [cite: 2]
-* [cite_start]**Location:** Bangalore, India [cite: 4]
+- Built a portable assistive device that reads printed text from books, documents, and labels for visually impaired users.[file:1]  
+- Integrated camera module with Raspberry Pi for real-time image capture and pre-processing using OpenCV.[file:1]  
+- Used Tesseract-OCR for text extraction and TTS engine to convert text into clear, audible speech output.[file:1]  
+
+> 🔗 **Repo:** _Add your GitHub repo link here_  
+> 🔗 **Demo Video (if any):** _Add video link here_
+
+---
+
+### 🍽️ Food Ordering Web App (Internship Project)
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API[file:1]  
+
+- Developed a full-stack e-commerce food ordering platform with user authentication and an admin dashboard for order and product management.[file:1]  
+- Designed a responsive UI with Bootstrap and managed products, orders, and users with MySQL backend.[file:1]  
+- Integrated PayPal API for secure online payments and ensured cross-device responsiveness.[file:1]  
+
+> 🔗 **Repo:** _Add your GitHub repo link here_  
+> 🔗 **Live Demo (if any):** _Add deployment link here_
+
+---
+
+## 🏅 Achievements & Certifications
+
+- Project selected and funded by KSCST (Karnataka State Council for Science and Technology).[file:1]  
+- Full Stack Web Development certification (Jspiders).[file:1]  
+- Fundamentals of Data Analytics certification (Nasscom Foundation).[file:1]  
+- DevOps Foundation Program certification (iNeuron).[file:1]  
+
+---
+
+## 📫 Contact
+
+- 📍 Bangalore, India[file:1]  
+- ✉️ Email: madhav7022@gmail.com[file:1]  
+- 🔗 LinkedIn / Portfolio: _Add your links here_  
+
+Feel free to reach out for collaboration, freelance projects, or exciting opportunities in full stack development.
