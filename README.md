@@ -1,73 +1,102 @@
-# Madhav Jadhav | Full-Stack Software Engineer (Java/Spring Boot Focus)
+# 🌟 Madhav Jadhav — Full Stack Developer
 
-## 💡 Quick Summary
+![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-%2300C4CC.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[cite_start]Recent Computer Science Engineering graduate with a strong foundation in full-stack development, specializing in building scalable backend services using **Java and Spring Boot**[cite: 8, 19]. [cite_start]Proven ability to deliver complex solutions, including a KSCST-funded assistive technology project[cite: 15]. [cite_start]Seeking roles that leverage skills in API design, database management (**MySQL, MongoDB** [cite: 21, 22][cite_start]), and modern web frameworks (**React.js, Node.js** [cite: 11, 19]).
-
----
-
-## 🛠️ Technical Expertise & Core Stack
-
-I organize my skills by professional relevance, emphasizing the tools I use to deliver production-ready code.
-
-| Category | Key Technologies | Experience/Focus |
-| :--- | :--- | :--- |
-| **Primary Backend Stack** | [cite_start]**Java (Core + Advanced)** [cite: 9][cite_start], **Spring Boot** [cite: 19][cite_start], Spring Data JPA, Hibernate [cite: 19, 27] | Building robust, modular, and performant RESTful APIs. |
-| **Secondary Backend** | [cite_start]Node.js, Express.js [cite: 19, 20][cite_start], Servlets, JSP, JDBC [cite: 19] | Full-stack application development (e-commerce). |
-| **Frontend & UI** | [cite_start]**React.js** [cite: 11][cite_start], HTML, CSS, JavaScript [cite: 9, 11][cite_start], Thymeleaf[cite: 27], Bootstrap | Developing responsive, user-friendly interfaces (MVC/SPA). |
-| **Data & Databases** | [cite_start]**SQL**, PLSQL [cite: 9][cite_start], MySQL [cite: 22][cite_start], MongoDB [cite: 22] | Designing optimized schemas and efficient query execution. |
-| **Tools & DevOps** | [cite_start]Git, GitHub [cite: 13][cite_start], Maven [cite: 13][cite_start], VS Code, Eclipse/IntelliJ [cite: 13] | [cite_start]Version control, dependency management, and foundation in DevOps practices[cite: 24]. |
-| **Computer Vision & Hardware** | [cite_start]Python [cite: 9][cite_start], Raspberry Pi [cite: 34][cite_start], OpenCV, Tesseract-OCR [cite: 34] | Image processing and integration for specialized applications. |
+📍 Bangalore, India  
+📧 madhav7022@gmail.com  
+📱 +91 7022778185  
 
 ---
 
-## 🚀 Featured Projects (Focus on Impact and Decisions)
-
-### 1. Reading Eye For Blind Using Raspberry Pi (KSCST-Funded Final Year Project)
-
-> [cite_start]**Awarded Funding by KSCST**[cite: 15]. This is the most unique and valuable entry; emphasize it.
-
-* [cite_start]**Goal:** To engineer a low-cost, portable assistive device for visually impaired individuals to convert physical printed text into clear audible speech[cite: 35].
-* [cite_start]**Architecture:** Developed the core system on a **Raspberry Pi**[cite: 36]. The solution integrated a camera module and a Python-based processing pipeline.
-* [cite_start]**Key Technical Challenge & Solution:** Managed real-time image capture and implemented an image-to-text pipeline using **OpenCV** for essential image preprocessing (e.g., perspective correction, noise reduction) and **Tesseract-OCR** for accurate character recognition[cite: 37].
-* [cite_start]**Outcome:** Successfully integrated a Text-to-Speech (TTS) engine[cite: 38]. **[Insert a quantitative metric, e.g., "Achieved an average processing time of < 5 seconds per text capture."]**
-* [cite_start]**Tech Stack:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech (TTS)[cite: 34].
-* **[GitHub Repository Link]**
-
-### 2. Book Management System (Spring Boot Full-Stack Application)
-
-* [cite_start]**Goal:** Implemented a complete CRUD web application showcasing proficiency in the Java/Spring ecosystem and end-to-end data flow[cite: 30].
-* [cite_start]**Architecture:** Adhered strictly to the **MVC architectural pattern**[cite: 32]. [cite_start]Utilized **Spring Boot** for rapid application setup and **Thymeleaf** for server-side template rendering[cite: 27, 32].
-* [cite_start]**Key Technical Decision:** Used **Spring Data JPA** to abstract SQL operations, enabling seamless persistence and automatic mapping of the Book Entity to the **MySQL** database[cite: 31]. [cite_start]Showcased mastery of Spring fundamentals like Dependency Injection (`@Autowired`)[cite: 33].
-* [cite_start]**Tech Stack:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok[cite: 27].
-* **[GitHub Repository Link]**
-
-### 3. Food Ordering Web App (Internship Project)
-
-* [cite_start]**Goal:** Developed a full-stack e-commerce platform featuring user authentication, an admin dashboard, and secure online payment processing[cite: 41].
-* [cite_start]**Backend:** Built using the **Node.js/Express.js** framework and integrated with **MySQL** for managing products, orders, and user data[cite: 40, 42].
-* [cite_start]**Key Integration:** Enabled secure transactions by integrating the **PayPal API**[cite: 43].
-* [cite_start]**Frontend:** Designed a responsive UI using HTML, CSS, JavaScript, and **Bootstrap**[cite: 40, 42, 43].
-* [cite_start]**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API[cite: 40].
-* **[GitHub Repository Link]**
+## 🚀 About Me
+I am a **Full Stack Developer** with expertise in building scalable web applications, backend systems, and innovative solutions. My journey spans across **Java, Python, JavaScript, SQL, and modern frameworks**. I thrive on solving complex problems, optimizing performance, and delivering impactful projects that make a difference.
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠️ Technical Skills
 
-* [cite_start]**Bachelor of Technology in Computer Science Engineering (B.Tech)** [cite: 6]
-    * [cite_start]Dayananda Sagar University, Bangalore (2020-2024) [cite: 6]
-* **Certifications:**
-    * [cite_start]Full stack web Development (Jspiders) [cite: 17]
-    * [cite_start]Fundamentals of Data Analytics (Nasscom Foundation) [cite: 23]
-    * [cite_start]DevOps Foundation Program (iNeuron) [cite: 24]
+### Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%239E9E9E.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Developer Tools  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 📧 Get In Touch
+## 🏆 Achievements
+- 🚩 Project selected and funded by **KSCST (2024)**  
+- 📜 Certified in **Full Stack Web Development (JSpiders)**  
+- 📊 Certified in **Fundamentals of Data Analytics (Nasscom Foundation)**  
+- ⚙️ Certified in **DevOps Foundation Program (iNeuron)**  
 
-| Contact | Details |
-| :--- | :--- |
-| [cite_start]**Email** | madhav7022@gmail.com [cite: 3] |
-| **Phone** | [cite_start]7022778185 [cite: 2] |
-| **Location** | [cite_start]Bangalore, India [cite: 4] |
+---
+
+## 📂 Projects
+
+### 📘 Book Management System
+- **Tech Stack:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok  
+- Built a full-stack CRUD application for managing book inventory.  
+- Implemented persistence with JPA, MVC architecture, and RESTful endpoints.  
+
+---
+
+### 👁️ Reading Eye for Blind (Final Year Project)
+- **Tech Stack:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech  
+- Developed an assistive device enabling visually impaired individuals to read printed text.  
+- Integrated OCR and TTS for real-time text-to-speech conversion.  
+
+---
+
+### 🍔 Food Ordering Web App (Internship Project)
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API  
+- Built a responsive e-commerce food ordering platform with authentication and admin dashboard.  
+- Integrated secure online payments using PayPal API.  
+
+---
+
+## 🌐 Languages
+- English  
+- Kannada  
+- Hindi  
+- Marathi  
+
+---
+
+## 📊 GitHub Stats
+![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
