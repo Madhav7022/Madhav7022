@@ -91,6 +91,6 @@ Aspiring Full Stack Web Developer specializing in Java, Spring Boot, and modern 
 
 - 📍 Bangalore, India
 - ✉️ Email: madhav7022@gmail.com 
-- 🔗 LinkedIn / Portfolio: _Add your links here_  
+- 🔗 LinkedIn / Portfolio:www.linkedin.com/in/madhavjadhav7022 
 
 Feel free to reach out for collaboration, freelance projects, or exciting opportunities in full stack development.
