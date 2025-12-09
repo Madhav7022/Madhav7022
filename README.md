@@ -83,9 +83,9 @@ A complete Full-Stack CRUD web application for managing book inventory.
 ## 📫 Connect With Me
 
 <p>
-<a href="mailto:madhav7022@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:madhav7022@gmail.com"><img src="madhav7022@gmail.com" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="www.linkedin.com/in/madhavjadhav7022" /></a>
+<a href="YOUR_GITHUB_URL"><img src="www.github.com/in/Madhav7022" /></a>
 </p>
 
 ---
