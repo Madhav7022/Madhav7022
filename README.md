@@ -1,6 +1,6 @@
 # Hi, I'm Madhav Jadhav 👋
 
-Aspiring Full Stack Web Developer specializing in Java, Spring Boot, and modern JavaScript frameworks. Passionate about building scalable web applications and solving real-world problems through clean, efficient code.[file:1]
+Aspiring Full Stack Web Developer specializing in Java, Spring Boot, and modern JavaScript frameworks. Passionate about building scalable web applications and solving real-world problems through clean, efficient code.
 
 ---
 
