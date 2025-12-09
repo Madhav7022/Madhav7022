@@ -134,8 +134,8 @@
 
 - 📍 Bangalore, India  
 - ✉️ Email: **madhav7022@gmail.com**  
-- 💼 LinkedIn: `[Add your LinkedIn link here]`  
-- 🌐 Portfolio: `[Add your portfolio link here]`  
+- 💼 LinkedIn: www.linkedin.com/in/madhavjadhav7022  
+    
 
 > Always excited to collaborate on full stack projects, open source contributions, and innovative ideas.
 
