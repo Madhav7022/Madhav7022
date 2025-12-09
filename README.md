@@ -1,102 +1,148 @@
-# 🌟 Madhav Jadhav — Full Stack Developer
+<!-- Hero Section -->
+<div align="center">
 
-![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-%2300C4CC.svg?style=for-the-badge&logo=github&logoColor=white)
+  <!-- Optional fancy banner (replace text & colors if you want) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:22c55e&height=220&section=header&text=Madhav%20Jadhav&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="banner" />
 
-📍 Bangalore, India  
-📧 madhav7022@gmail.com  
-📱 +91 7022778185  
+  <h3>🚀 Full Stack Developer | Java • Spring Boot • React</h3>
+  <p>
+    Building robust web applications, solving real-world problems, and always learning something new.
+  </p>
 
----
+  <!-- Profile stats badges (replace madhav-jadhav with your actual GitHub username) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=madhav-jadhav&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square" alt="Open to work" />
+  </p>
 
-## 🚀 About Me
-I am a **Full Stack Developer** with expertise in building scalable web applications, backend systems, and innovative solutions. My journey spans across **Java, Python, JavaScript, SQL, and modern frameworks**. I thrive on solving complex problems, optimizing performance, and delivering impactful projects that make a difference.
-
----
-
-## 🛠️ Technical Skills
-
-### Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Backend  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%239E9E9E.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### Frontend  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Developer Tools  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+</div>
 
 ---
 
-## 🏆 Achievements
-- 🚩 Project selected and funded by **KSCST (2024)**  
-- 📜 Certified in **Full Stack Web Development (JSpiders)**  
-- 📊 Certified in **Fundamentals of Data Analytics (Nasscom Foundation)**  
-- ⚙️ Certified in **DevOps Foundation Program (iNeuron)**  
+## 👨‍💻 About Me
+
+- 🏫 B.Tech in Computer Science Engineering – Dayananda Sagar University, Bangalore  
+- 🌍 Based in Bangalore, India and passionate about full stack web development  
+- 💡 Enjoy working with Spring Boot, React, Node.js, and modern databases  
+- 🎯 Goal: To grow as a full stack engineer and contribute to impactful, real-world projects  
 
 ---
 
-## 📂 Projects
+## 🛠 Tech Stack & Tools
 
-### 📘 Book Management System
-- **Tech Stack:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok  
-- Built a full-stack CRUD application for managing book inventory.  
-- Implemented persistence with JPA, MVC architecture, and RESTful endpoints.  
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+---
+
+## 📂 Highlight Projects
+
+> Replace the `REPO_LINK_HERE` placeholders with your actual GitHub repository links.
+
+### 📚 Book Management System (Full Stack CRUD)
+**Tech:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Maven, Lombok  
+
+- Full-stack CRUD web application to manage book inventory with clean end-to-end data flow.  
+- Implemented Spring Data JPA for persistence, mapping entities to MySQL and abstracting SQL operations.  
+- Followed MVC architecture with controllers and Thymeleaf views, using Dependency Injection and REST-style endpoints.  
+
+🔗 **Code:** `[GitHub Repo](REPO_LINK_HERE)`
 
 ---
 
-### 👁️ Reading Eye for Blind (Final Year Project)
-- **Tech Stack:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech  
-- Developed an assistive device enabling visually impaired individuals to read printed text.  
-- Integrated OCR and TTS for real-time text-to-speech conversion.  
+### 👁️ Reading Eye for Blind (Assistive Device)
+**Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech (TTS)  
+
+- Portable assistive device that reads printed text from books, documents, and labels for visually impaired users.  
+- Captures images via camera module, processes them with OpenCV, extracts text using Tesseract-OCR, and converts to speech via TTS.  
+
+🔗 **Code / Hardware Docs:** `[GitHub Repo](REPO_LINK_HERE)`  
+🔗 **Demo (optional):** `[Video Link](VIDEO_LINK_HERE)`
 
 ---
 
-### 🍔 Food Ordering Web App (Internship Project)
-- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API  
-- Built a responsive e-commerce food ordering platform with authentication and admin dashboard.  
-- Integrated secure online payments using PayPal API.  
+### 🍽️ Food Ordering Web App (Internship Project)
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Bootstrap, PayPal API  
+
+- Full-stack food ordering platform with user authentication and admin dashboard for managing products and orders.  
+- Responsive UI with Bootstrap and MySQL-backed data for users, orders, and menu items.  
+- Integrated PayPal API for secure online payments and multi-device compatibility.  
+
+🔗 **Code:** `[GitHub Repo](REPO_LINK_HERE)`  
+🔗 **Live (if deployed):** `[Live Demo](DEPLOY_LINK_HERE)`
 
 ---
 
-## 🌐 Languages
-- English  
-- Kannada  
-- Hindi  
-- Marathi  
+## 🏆 Achievements & Certifications
+
+- ✅ Project selected and funded by **KSCST** (Karnataka State Council for Science and Technology)  
+- 🎓 **Full Stack Web Development** – Jspiders  
+- 📊 **Fundamentals of Data Analytics** – Nasscom Foundation  
+- ⚙️ **DevOps Foundation Program** – iNeuron  
 
 ---
 
-## 📊 GitHub Stats
-![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- Replace madhav-jadhav with your GitHub username -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-jadhav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-jadhav&theme=tokyonight&hide_border=true" alt="GitHub streak" height="160" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-jadhav&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+## 🤝 Let’s Connect
+
+- 📍 Bangalore, India  
+- ✉️ Email: **madhav7022@gmail.com**  
+- 💼 LinkedIn: www.linkedin.com/in/madhavjadhav7022
+ 
+
+> Always excited to collaborate on full stack projects, open source contributions, and innovative ideas.
 
 ---
+
+<div align="center">
+
+  💬 *“Code, learn, improve – every single day.”*  
+
+</div>
