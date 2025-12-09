@@ -49,21 +49,21 @@ I enjoy building full-stack applications, solving real-world problems, and conti
 ## 📘 Featured Projects
 
 ### 🔹 *Reading Eye For Blind Using Raspberry Pi* (KSCST Funded - Final Year Project)
- A portable assistive device developed to help visually impaired individuals read printed text[span_4](end_span).
-- *[span_5](start_span)Core Technology:* Engineered on a *Raspberry Pi* using *Python*[span_5](end_span).
-- *[span_6](start_span)Text Extraction:* Utilized *OpenCV* for image processing and *Tesseract-OCR* for accurate character recognition[span_6](end_span).
-- *[span_7](start_span)User Interface:* Integrated a *Text-to-Speech (TTS) engine* to convert extracted text into clear, audible speech[span_7](end_span).
+ A portable assistive device developed to help visually impaired individuals read printed text.
+- Core Technology:* Engineered on a *Raspberry Pi* using *Python.
+- Text Extraction:* Utilized *OpenCV* for image processing and *Tesseract-OCR* for accurate character recognition.
+- User Interface:* Integrated a *Text-to-Speech (TTS) engine* to convert extracted text into clear, audible speech.
 
 ### 🔹 *Book Management System* (Spring Boot CRUD Application)
-[span_8](start_span)A complete Full-Stack CRUD web application for managing book inventory[span_8](end_span).
-- Backend:* Developed with *Spring Boot, implementing the persistence layer using **Spring Data JPA* and abstracting SQL operations[span_9](end_span)[span_10](end_span).
-- Database:* Used *MySQL* as the relational database[span_11](end_span).
-- Architecture:* Adhered to the *MVC pattern, using **Thymeleaf* for dynamic front-end rendering[span_12](end_span).
+A complete Full-Stack CRUD web application for managing book inventory.
+- Backend:* Developed with *Spring Boot, implementing the persistence layer using **Spring Data JPA* and abstracting SQL operations.
+- Database:* Used *MySQL* as the relational database.
+- Architecture:* Adhered to the *MVC pattern, using **Thymeleaf* for dynamic front-end rendering.
 
 ### 🔹 *Food Ordering Web App* (Internship Project)
- A full-stack e-commerce food ordering platform with user authentication and an admin dashboard[span_13](end_span).
-- * Tech Stack:* *Node.js, Express.js, **MySQL, **HTML, CSS, JavaScript, and **Bootstrap*[span_14](end_span).
-- Payment:* Enabled secure online payments by integrating the *PayPal API*[span_15](end_span).
+ A full-stack e-commerce food ordering platform with user authentication and an admin dashboard.
+- * Tech Stack:* *Node.js, Express.js, **MySQL, **HTML, CSS, JavaScript, and **Bootstrap.
+- Payment:* Enabled secure online payments by integrating the *PayPal API.
 
 ---
 
