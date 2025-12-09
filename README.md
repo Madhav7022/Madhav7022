@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me
-[span_0](start_span)I am a passionate *Full Stack Developer* with a strong foundation in *Java (Core + Advanced)* and modern web technologies[span_0](end_span). [span_1](start_span)I am proficient in backend development using frameworks like *Spring Boot* and *Hibernate, and frontend technologies like **React.js, **HTML, and **CSS*[span_1](end_span).
+ I am a passionate *Full Stack Developer* with a strong foundation in *Java (Core + Advanced)* and modern web technologies.I am proficient in backend development using frameworks like *Spring Boot* and *Hibernate, and frontend technologies like **React.js, **HTML, and **CSS* 
 
 I enjoy building full-stack applications, solving real-world problems, and continuously learning new technologies. [span_2](start_span)My final year project was selected and *funded by KSCST*[span_2](end_span).
 
-[span_3](start_span)Currently based in *Bangalore, India*[span_3](end_span) and open to exciting opportunities!
+ Currently based in *Bangalore, India*  and open to exciting opportunities!
 
 ---
 
@@ -56,27 +56,27 @@ I enjoy building full-stack applications, solving real-world problems, and conti
 
 ### 🔹 *Book Management System* (Spring Boot CRUD Application)
 [span_8](start_span)A complete Full-Stack CRUD web application for managing book inventory[span_8](end_span).
-- *[span_9](start_span)[span_10](start_span)Backend:* Developed with *Spring Boot, implementing the persistence layer using **Spring Data JPA* and abstracting SQL operations[span_9](end_span)[span_10](end_span).
-- *[span_11](start_span)Database:* Used *MySQL* as the relational database[span_11](end_span).
-- *[span_12](start_span)Architecture:* Adhered to the *MVC pattern, using **Thymeleaf* for dynamic front-end rendering[span_12](end_span).
+- Backend:* Developed with *Spring Boot, implementing the persistence layer using **Spring Data JPA* and abstracting SQL operations[span_9](end_span)[span_10](end_span).
+- Database:* Used *MySQL* as the relational database[span_11](end_span).
+- Architecture:* Adhered to the *MVC pattern, using **Thymeleaf* for dynamic front-end rendering[span_12](end_span).
 
 ### 🔹 *Food Ordering Web App* (Internship Project)
-[span_13](start_span)A full-stack e-commerce food ordering platform with user authentication and an admin dashboard[span_13](end_span).
-- *[span_14](start_span)Tech Stack:* *Node.js, Express.js, **MySQL, **HTML, CSS, JavaScript, and **Bootstrap*[span_14](end_span).
-- *[span_15](start_span)Payment:* Enabled secure online payments by integrating the *PayPal API*[span_15](end_span).
+ A full-stack e-commerce food ordering platform with user authentication and an admin dashboard[span_13](end_span).
+- * Tech Stack:* *Node.js, Express.js, **MySQL, **HTML, CSS, JavaScript, and **Bootstrap*[span_14](end_span).
+- Payment:* Enabled secure online payments by integrating the *PayPal API*[span_15](end_span).
 
 ---
 
 ## 🎓 Certifications
-- *[span_16](start_span)Full stack web Development* (Jspiders)[span_16](end_span)
-- *[span_17](start_span)Fundamentals of Data Analytics* (Nasscom Foundation)[span_17](end_span)
-- *[span_18](start_span)DevOps Foundation program* (iNeuron)[span_18](end_span)
+- * Full stack web Development* (Jspiders) 
+- * Fundamentals of Data Analytics* (Nasscom Foundation )
+- * DevOps Foundation program* (iNeuron) 
 
 ---
 
 ## 🏆 Achievements
-- [span_19](start_span)Our Project Is Selected and *Funded By KSCST* (Karnataka State Council for Science and Technology)[span_19](end_span).
-- [span_20](start_span)Certification in Full Stack Web Development (Jspiders)[span_20](end_span).
+-  Our Project Is Selected and *Funded By KSCST* (Karnataka State Council for Science and Technology) 
+-  Certification in Full Stack Web Development (Jspiders) 
 
 ---
 
